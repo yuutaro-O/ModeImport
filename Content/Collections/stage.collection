@@ -1,0 +1,13 @@
+FileVersion:2
+Type:Static
+Guid:51D6D3C5-44DD-9FD0-5697-90AA5E82FA9B
+ParentGuid:00000000-0000-0000-0000-000000000000
+
+/Game/GameMode.GameMode
+/Game/Grass.Grass
+/Game/Grass2.Grass2
+/Game/Grass3.Grass3
+/Game/House_Texture.House_Texture
+/Game/Light_bin.Light_bin
+/Game/NewBlueprint.NewBlueprint
+/Game/Wooden_House.Wooden_House
